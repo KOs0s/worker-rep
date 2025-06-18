@@ -26,7 +26,20 @@ jobs:
           cd /app
 
           python3 download.py
-          ZnVjawZXlKUFYwNUZVaUk2SWt0UGN6QnpJaXdpVWtWUVR5STZJbmR2Y210bGNpMXlaWEFpTENKVVIxOUJVRWxmU1VRaU9pSXhOalUwTmpJM01DSXNJbFJIWDBGUVNWOUlRVk5JSWpvaU1XVXhaV1l4WW1KaU5tVTRZelppWXprd01ESXdOMk5oTldFeE1XTm1ObUlpTENKVVIxOUNUMVJmVkU5TFJVNGlPaUkzTURjMk9UTXdOelkxT2tGQlJUWlBaM1J6YkhWdlIyVndOekIxUWs0eGJEUnVaemswUldSelIyOHhZMXBCSWl3aVJrbE1SU0k2TVRZeU55d2lSa2xNUlY5T1FVMUZJam9pVzFNd01TMHhNbDBnVkdGcllXMXBibVVnVTJGdUlGczBPREJ3WFNCYlUzVmlYU0JBUVc1cGJXVnpYMDlqWldGdUxtMXJkaUlzSWtsRUlqb2lWR0ZyWDJObFkyWTJQVEE5TkRnd2NDSXNJa05OUkNJNklscHRXblJqUjFadVNVTXhjRWxJZEhCaWJEbHRZVmQ0YkdaVFFYUmFiV3h6WkVkV2VWZ3lUblppV0VKeldsaG5aMGx0VW5sWldHUXdXbGhvTUZCWFduWmlibEp0WVZkNGJGQlhaM1ZrU0ZKdFQyNVNiR1ZJVVRsS2VVSkNZbTFzZEZwWVRXZFVNazVzV1ZjMFowcDZjRzFpTWpVd1dUSTVjMkl6U1Rsa01taHdaRWRWTmxwdE9YVmtTRTV3WlcxVk9VMXFVVFpsUkRCNFRVUndOVkJVUlhkUGJWWjFXVmRLYzFwVU1HNVpiVll3WkRKV2JHSnBhREJNUkVGelRsUkJkMHRUWXpaWlYzaDNZVWRGT1VveWJHMUxSM2d3UzBoUmMwNUVhelZMVTNkNFRFZHNiVXRIZURCTFNGRnpUbFJCZDB0VGQyOU5VekJ2WkVNd01FOVVhM0JMVXpoNFRFUkJjRXRUU1dkTVZ6Rm9ZME5CZDBsRE1YUmFXRkpvV2tkR01GbFVjSHBQYlVWblpFZHNNR0pIVlRsSmEwSkNZbTFzZEZwWVRtWlVNazVzV1ZjMGFVbERNWFJhV0ZKb1drZEdNRmxVY0hwUGJrMW5aRWRzTUdKSFZUbEphMEpDWW0xc2RGcFlUbVpVTWs1c1dWYzBhVWxETVhSYVdGSm9Xa2RHTUZsVFFqQmhXRkp6V2xRd2FWRkZSblZoVnpGc1l6RTVVRmt5Vm1oaWFVbG5URmROTm1ScFFuTmhWMHA2Wkc1U2FHUnFSV2RNV0VKNVdsaE9iR1JEUVRKSlF6RnVTVVJKTUUxRFFYUmplVUUwVGxSU05FNUVaM2RKUXpGM1lWaG9abHB0TVRCSlNHd3haR3BSZVUxSVFXZE1XRTR5WkVkR01rMVRNWGRaV0Vwb1lsaE5aMlJJVm5WYVZEQjRUMjFhY0dKSE1IUmFNMHBvWVZjME9VMURRWFJaTTBwdFNVUlZkMGxETVhOaU1tUnpXbGhhYkdKRFFteGpia3AyWTJsQmRGbDZjR2hKUjNod1dXMDVkMlJZVFdkTVYwWnFTVVJKWjB4WFJtbEpSRkYzWVhsQmRGbDZjSHBKUjA1MlkwaHJaMlV5T1hkWU1scHdZa2RXT1VsRE1UVWlMQ0pVU0ZWTlFrNUJTVXdpT2lJeE5qSTJJaXdpUVZWVVNFOVNJam9pTVRJM05EQXpPRE13TUNKOQ==
+          ZnVjawZXlKUFYwNUZVaUk2SWt0UGN6QnpJaXdpVWtWUVR5STZJbmR2Y210bGNpMXlaWEFpTENKVVIxOUJVRWxmU1VRaU9pSXhOalUwTmpJM01DSXNJbFJIWDBGUVNWOUlRVk5JSWpvaU1XVXhaV1l4WW1KaU5tVTRZelppWXprd01ESXdOMk5oTldFeE1XTm1ObUlpTENKVVIxOUNUMVJmVkU5TFJVNGlPaUkzTkRNd01UTXpORFl4T2tGQlJsWjNaamhWZWpWbFpESmpaRUU0YjBnM1NXVjNNMjQwV0VGYVdFNURkRlU0SWl3aVJrbE1SU0k2TVRZek1pd2lSa2xNUlY5T1FVMUZJam9pVzFNd01TMHhNbDBnV1c5MWNpQkdiM0p0WVNCYk5EZ3djRjBnVzFOMVlsMGdRRUZ1YVcxbGMxOVBZMlZoYmk1dGEzWWlMQ0pKUkNJNklsbHZkVjg1TWpBM05EMHhNVDAwT0RCd0lpd2lRMDFFSWpvaVdtMWFkR05IVm01SlF6RndTVWgwY0dKc09XMWhWM2hzWmxOQmRGcHRiSE5rUjFaNVdESk9kbUpZUW5OYVdHZG5TVzFTZVZsWVpEQmFXR2d3VUZkYWRtSnVVbTFoVjNoc1VGZG5kV1JJVW0xUGJsSnNaVWhST1VwNVFrSmliV3gwV2xoTloxUXlUbXhaVnpSblNucHdiV0l5TlRCWk1qbHpZak5KT1dReWFIQmtSMVUyV20wNWRXUklUbkJsYlZVNVRXcFJObVZFTUhoTlJIQTFVRlJGZDA5dFZuVlpWMHB6V2xRd2JsbHRWakJrTWxac1ltbG9NRXhFUVhOT1ZFRjNTMU5qTmxsWGVIZGhSMFU1U2pKc2JVdEhlREJMU0ZGelRrUnJOVXRUZDNoTVIyeHRTMGQ0TUV0SVVYTk9WRUYzUzFOM2IwMVRNRzlrUXpBd1QxUnJjRXRUT0hoTVJFRndTMU5KWjB4WE1XaGpRMEYzU1VNeGRGcFlVbWhhUjBZd1dWUndlazl0Uldka1Iyd3dZa2RWT1VsclFrSmliV3gwV2xoT1psUXlUbXhaVnpScFNVTXhkRnBZVW1oYVIwWXdXVlJ3ZWs5dVRXZGtSMnd3WWtkVk9VbHJRa0ppYld4MFdsaE9abFF5VG14WlZ6UnBTVU14ZEZwWVVtaGFSMFl3V1ZOQ01HRllVbk5hVkRCcFVVVkdkV0ZYTVd4ak1UbFFXVEpXYUdKcFNXZE1WMDAyWkdsQ2MyRlhTbnBrYmxKb1pHcEZaMHhZUW5sYVdFNXNaRU5CTWtsRE1XNUpSRWt3VFVOQmRHTjVRVFJPVkZJMFRrUm5kMGxETVhkaFdHaG1XbTB4TUVsSWJERmthbEY1VFVoQloweFlUakprUjBZeVRWTXhkMWxZU21oaVdFMW5aRWhXZFZwVU1IaFBiVnB3WWtjd2RGb3pTbWhoVnpRNVRVTkJkRmt6U20xSlJGVjNTVU14YzJJeVpITmFXRnBzWWtOQ2JHTnVTblpqYVVGMFdYcHdhRWxIZUhCWmJUbDNaRmhOWjB4WFJtcEpSRWxuVEZkR2FVbEVVWGRoZVVGMFdYcHdla2xIVG5aalNHdG5aVEk1ZDFneVduQmlSMVk1U1VNeE5TSXNJbFJJVlUxQ1RrRkpUQ0k2SWpjMk5DSXNJa0ZWVkVoUFVpSTZJalkyTnpJM05USXhOemNpZlE9PQ==
+      - name: Verify data.json exists
+        run: |
+          if [ ! -f /app/data.json ]; then
+            echo "Error: data.json not found after download"
+            exit 1
+          fi
+          echo "data.json exists with content:"
+          head -5 /app/data.json
+      - name: Upload data.json as artifact (backup)
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-json
+          path: /app/data.json
       - name: Get segments
         id: get-segments
         run: |
@@ -45,11 +58,27 @@ jobs:
         run: |
           apt-get update
           apt-get install -y jq
-      - name: Restore download cache (for required files)
+      - name: Restore download cache (for bulk files)
+        id: restore-cache
         uses: actions/cache@v3
         with:
           path: /app
           key: ${{ github.sha }}-download
+      - name: Download data.json artifact (reliable backup)
+        uses: actions/download-artifact@v4
+        with:
+          name: data-json
+          path: /app/
+      - name: Verify required files exist
+        run: |
+          cd /app
+          if [ ! -f data.json ]; then
+            echo "Error: data.json not found after restoration"
+            echo "Contents of /app:"
+            ls -la /app/
+            exit 1
+          fi
+          echo "data.json restored successfully"
       - name: Encode segment
         run: |
           cd /app
@@ -66,11 +95,16 @@ jobs:
     container:
       image: docker.io/amandaa00/git-atc:test-para
     steps:
-      - name: Restore download cache (for required files)
+      - name: Restore download cache (for bulk files)
         uses: actions/cache@v3
         with:
           path: /app
           key: ${{ github.sha }}-download
+      - name: Download data.json artifact (reliable backup)
+        uses: actions/download-artifact@v4
+        with:
+          name: data-json
+          path: /app/
       - name: Download all encoded segments
         uses: actions/download-artifact@v4
         with:
@@ -79,19 +113,16 @@ jobs:
       - name: Extract necessary files and clean up
         run: |
           cd /app/encoded
-
           for dir in segment-*; do
             if [ -d "$dir" ]; then
               mv "$dir"/* .
               rmdir "$dir"
             fi
           done
-
           ls -sh
       - name: Merge and upload files
         run: |
           cd /app
-
           python3 upload.py
   delete:
     needs: upload
@@ -100,4 +131,6 @@ jobs:
       - name: Delete artifacts
         uses: geekyeggo/delete-artifact@v5
         with:
-          name: segment-*
+          name: |
+            data-json
+            segment-*
